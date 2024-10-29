@@ -46,5 +46,5 @@ The following plots demonstrate the change in model loss over each epoch during 
 ### LabLabView Loss Over EpochsView
 ![Loss Over Epochs - LabView](Loss-Over-Epochs-labview-plot.bmp)
 
-## Accuracy Over Epochs - PyTorch
-![Accuracy Over Epochs - PyTorch](Accuracy-Over-Epochs-pytorch.png)
+## Validation Accuracy Over Epochs - PyTorch vs Labview
+![Accuracy Over Epochs - PyTorch](validation-accuracy-over-epochs.png)
